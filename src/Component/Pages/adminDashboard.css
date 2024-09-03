@@ -1,0 +1,51 @@
+.admin-dashboard {
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.logout-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.error-message {
+  color: red;
+}
+
+.btn {
+  padding: 5px 10px;
+  margin-left: 10px;
+}
+
+.btn-approve {
+  background-color: #4caf50;
+  color: white;
+}
+
+.btn-add-to-home {
+  background-color: #2196f3;
+  color: white;
+}
+
+.add-product-form .form-group {
+  margin-bottom: 10px;
+}
+
+.add-product-form input {
+  width: 100%;
+  padding: 8px;
+}
+
+.padded-box {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
